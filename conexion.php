@@ -5,7 +5,7 @@ class Conexion {
 
     public function __construct() {
         $host = "localhost";  
-        $dbname = "reto."; // Sin la extensión .sql
+        $dbname = "reto."; 
         $username = "postgres";
         $password = "luisa11";
 
